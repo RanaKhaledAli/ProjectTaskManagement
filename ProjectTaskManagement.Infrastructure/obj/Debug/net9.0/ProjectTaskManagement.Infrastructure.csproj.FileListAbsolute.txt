@@ -1,0 +1,17 @@
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\bin\Debug\net9.0\ProjectTaskManagement.Infrastructure.deps.json
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\bin\Debug\net9.0\ProjectTaskManagement.Infrastructure.runtimeconfig.json
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\bin\Debug\net9.0\ProjectTaskManagement.Infrastructure.dll
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\bin\Debug\net9.0\ProjectTaskManagement.Infrastructure.pdb
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\bin\Debug\net9.0\ProjectTaskManagement.Core.dll
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\bin\Debug\net9.0\ProjectTaskManagement.Core.pdb
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\obj\Debug\net9.0\ProjectTaskManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\obj\Debug\net9.0\ProjectTaskManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\obj\Debug\net9.0\ProjectTaskManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\obj\Debug\net9.0\ProjectTaskManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\obj\Debug\net9.0\ProjectTaskManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\obj\Debug\net9.0\ProjectT.97E654FA.Up2Date
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\obj\Debug\net9.0\ProjectTaskManagement.Infrastructure.dll
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\obj\Debug\net9.0\refint\ProjectTaskManagement.Infrastructure.dll
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\obj\Debug\net9.0\ProjectTaskManagement.Infrastructure.pdb
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\obj\Debug\net9.0\ProjectTaskManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Infrastructure\obj\Debug\net9.0\ref\ProjectTaskManagement.Infrastructure.dll

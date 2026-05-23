@@ -1,0 +1,12 @@
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Core\bin\Debug\net9.0\ProjectTaskManagement.Core.deps.json
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Core\bin\Debug\net9.0\ProjectTaskManagement.Core.dll
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Core\bin\Debug\net9.0\ProjectTaskManagement.Core.pdb
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Core\obj\Debug\net9.0\ProjectTaskManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Core\obj\Debug\net9.0\ProjectTaskManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Core\obj\Debug\net9.0\ProjectTaskManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Core\obj\Debug\net9.0\ProjectTaskManagement.Core.AssemblyInfo.cs
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Core\obj\Debug\net9.0\ProjectTaskManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Core\obj\Debug\net9.0\ProjectTaskManagement.Core.dll
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Core\obj\Debug\net9.0\refint\ProjectTaskManagement.Core.dll
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Core\obj\Debug\net9.0\ProjectTaskManagement.Core.pdb
+C:\Users\Rana Bayoumi.DESKTOP-VQVA4P8.000\source\repos\asp.netcore\ProjectTaskManagement\ProjectTaskManagement.Core\obj\Debug\net9.0\ref\ProjectTaskManagement.Core.dll
